@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mustak Ahmed </h1>
+<h1 align="center">Hi 👋, I'm Mustak Ahmed Kafy </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img src="https://mustakahmedkafy.github.io/img/programmer.gif"
