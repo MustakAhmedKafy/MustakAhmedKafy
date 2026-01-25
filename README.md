@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20UI%20Enthusiast%20|%20Bangladesh&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
@@ -178,23 +178,24 @@ const mustak = {
   </a>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
-<!-- Activity Graph -->
+<!-- Yearly Activity Graph -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
   </a>
 </p>
 
-<!-- Trophies -->
+<!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
   </a>
 </p>
 
