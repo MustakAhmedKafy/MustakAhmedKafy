@@ -178,10 +178,10 @@ const mustak = {
   </a>
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - Using working alternative -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -192,10 +192,10 @@ const mustak = {
   </a>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies - Using working alternative -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
   </a>
 </p>
 
