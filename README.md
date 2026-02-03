@@ -1,30 +1,39 @@
-<!-- Header Banner -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ✨ ENHANCED HEADER WITH PREMIUM GLOW EFFECT ✨ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Option 1: Cyber/Neon Glow Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,30:A855F7,60:D946EF,100:F0ABFC&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=18&stroke=D946EF&strokeWidth=3" width="100%"/>
 </div>
 
-<!-- Animated Typing -->
+<!-- Animated Typing - Compact Height -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustakahmedkafy&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mustakahmedkafy&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
   <a href="https://twitter.com/mustak_kafy">
-    <img src="https://img.shields.io/twitter/follow/mustak_kafy?logo=twitter&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/mustak_kafy?logo=twitter&style=for-the-badge&color=A855F7&labelColor=1a1a2e" alt="Twitter Follow"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/mustakahmedkafy?tab=followers">
-    <img src="https://img.shields.io/github/followers/mustakahmedkafy?logo=github&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/mustakahmedkafy?logo=github&style=for-the-badge&color=D946EF&labelColor=1a1a2e" alt="GitHub Followers"/>
   </a>
 </p>
 
-<!-- Divider -->
+<!-- Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Section -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 👨‍💻 ABOUT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <span> About Me</span>
@@ -63,7 +72,10 @@ const mustak = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Tech Stack Section -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
   <span> Tech Stack</span>
@@ -160,12 +172,13 @@ const mustak = {
   </tr>
 </table>
 
-<br/>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Stats Section -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
   <span> GitHub Analytics</span>
@@ -173,54 +186,67 @@ const mustak = {
 
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=D946EF&text_color=ffffff&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8"/>
   </a>
 </p>
 
-<!-- GitHub Streak - Using working alternative -->
+<!-- GitHub Streak - Using verified working URL -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=D946EF&fire=F0ABFC&currStreakNum=ffffff&sideNums=A855F7&currStreakLabel=D946EF&sideLabels=A855F7&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- Yearly Activity Graph -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=A855F7&line=D946EF&point=F0ABFC&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
   </a>
 </p>
 
-<!-- GitHub Trophies - Using working alternative -->
+<!-- GitHub Trophies - Multiple Working Options -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
   </a>
 </p>
+
+<!-- Alternative Trophy URL if above doesn't work -->
+<!-- <img src="https://trophy-git-main-ryo-ma.vercel.app/?username=mustakahmedkafy&theme=discord&no-frame=true&column=4&row=2" /> -->
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Connect Section -->
-<h2>
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
-  <span> Let's Connect</span>
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🤝 LET'S CONNECT - ENHANCED DESIGN -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+  </h2>
+  <h3>
+    <samp>「 Let's Connect & Build Something Amazing Together! 」</samp>
+  </h3>
+</div>
 
 <p align="center">
   <a href="https://mustakkafy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:ahmedmusta99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/mustakahmedkafy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/mustak_kafy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://fb.com/mustakahmedkafy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -232,11 +258,11 @@ const mustak = {
   </a>
 </p>
 
-<br/>
+<br>
 
 <!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
 </p>
 
 <!-- Support Section -->
@@ -256,14 +282,34 @@ const mustak = {
   </picture>
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ENHANCED FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:D946EF&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=flat-square" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/From-Bangladesh%20🇧🇩-006a4e?style=flat-square" alt="From Bangladesh"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/From-Bangladesh%20🇧🇩-006a4e?style=for-the-badge" alt="From Bangladesh"/>
 </p>
 
 <p align="center">
-  <i>⭐ Star my repos if you find them interesting!</i>
+  <samp>
+    <b>「 Thanks for visiting! ⭐ Star my repos if you find them interesting! 」</b>
+  </samp>
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 ALTERNATIVE HEADER OPTIONS (Uncomment to use) -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<!--
+OPTION 2: Soft Gradient with Stronger Glow
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:8B5CF6,100:EC4899&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=18&stroke=EC4899&strokeWidth=4" width="100%"/>
+
+OPTION 3: Flame Effect
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,30:F093FB,60:667EEA,100:38BDF8&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=18&stroke=F093FB&strokeWidth=3" width="100%"/>
+
+OPTION 4: Ocean Theme
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:06B6D4,100:14B8A6&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=18&stroke=06B6D4&strokeWidth=3" width="100%"/>
+-->
