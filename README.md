@@ -169,6 +169,13 @@ const mustak = {
   <span> GitHub Analytics</span>
 </h2>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <a href="https://github.com/mustakahmedkafy">
+    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+  </a>
+</p>
+
 <!-- Yearly Activity Graph -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
