@@ -169,10 +169,17 @@ const mustak = {
   <span> GitHub Analytics</span>
 </h2>
 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true)](https://github.com/mustakahmedkafy)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8)](https://github.com/mustakahmedkafy)
+
+</div>
+
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -182,6 +189,13 @@ const mustak = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
   </a>
 </p>
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
