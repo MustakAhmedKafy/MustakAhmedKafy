@@ -1,22 +1,24 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,30:764ba2,60:f093fb,100:ff6b6b&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustakahmedkafy&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <a href="https://twitter.com/mustak_kafy">
-    <img src="https://img.shields.io/twitter/follow/mustak_kafy?logo=twitter&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Twitter Follow"/>
+  &nbsp;
+  <a href="https://twitter.com/mustak_kafy" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Follow-%40mustak__kafy-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e&color=667eea" alt="Twitter Follow"/>
   </a>
-  <a href="https://github.com/mustakahmedkafy?tab=followers">
+  &nbsp;
+  <a href="https://github.com/mustakahmedkafy?tab=followers" style="text-decoration:none;">
     <img src="https://img.shields.io/github/followers/mustakahmedkafy?logo=github&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="GitHub Followers"/>
   </a>
 </p>
@@ -33,13 +35,13 @@
 <img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="380" alt="Coding Animation"/>
 
 <p align="left">
-  
+
 🚀 **Passionate Frontend Developer** with a keen eye for design and user experience
-  
+
 🎨 I transform **complex problems** into **elegant, intuitive interfaces**
-  
+
 🌏 Based in **Bangladesh**, building for the **global web**
-  
+
 💡 Always exploring **new technologies** and **design trends**
 
 </p>
@@ -173,15 +175,18 @@ const mustak = {
 
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mustakahmedkafy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
-<!-- GitHub Streak - Using working alternative -->
+<!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -192,10 +197,10 @@ const mustak = {
   </a>
 </p>
 
-<!-- GitHub Trophies - Using working alternative -->
+<!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -208,29 +213,17 @@ const mustak = {
   <span> Let's Connect</span>
 </h2>
 
-<p align="center">
-  <a href="https://mustakkafy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ahmedmusta99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/mustakahmedkafy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mustak_kafy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://fb.com/mustakahmedkafy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/k_a_f_y" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/c/thekafyshow" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustakkafy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmusta99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustakahmedkafy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mustak_kafy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mustakahmedkafy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_a_f_y)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/thekafyshow)
+
+</div>
 
 <br/>
 
@@ -257,7 +250,7 @@ const mustak = {
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:ff6b6b,100:667eea&height=150&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=flat-square" alt="Made with Love"/>
