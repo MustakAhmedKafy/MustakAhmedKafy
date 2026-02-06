@@ -6,22 +6,18 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Crafting+Beautiful+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Frontend+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustakahmedkafy&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://twitter.com/mustak_kafy" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Follow-%40mustak__kafy-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e&color=667eea" alt="Twitter Follow"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mustakahmedkafy?tab=followers" style="text-decoration:none;">
-    <img src="https://img.shields.io/github/followers/mustakahmedkafy?logo=github&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="GitHub Followers"/>
-  </a>
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mustakahmedkafy&label=Profile%20Views&color=667eea&style=for-the-badge)
+[![X Follow](https://img.shields.io/badge/Follow-%40mustak__kafy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mustak_kafy)
+[![GitHub Followers](https://img.shields.io/github/followers/mustakahmedkafy?logo=github&style=for-the-badge&color=667eea&labelColor=1a1a2e)](https://github.com/mustakahmedkafy?tab=followers)
+
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -173,20 +169,17 @@ const mustak = {
   <span> GitHub Analytics</span>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/mustakahmedkafy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mustakahmedkafy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true)](https://github.com/mustakahmedkafy)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustakahmedkafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8)](https://github.com/mustakahmedkafy)
+
+</div>
 
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/mustakahmedkafy">
-    <img src="https://streak-stats.demolab.com?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -198,11 +191,11 @@ const mustak = {
 </p>
 
 <!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
