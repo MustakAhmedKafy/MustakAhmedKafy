@@ -26,9 +26,9 @@
   <span> About Me</span>
 </h2>
 
-<img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="360" hspace="30" vspace="10" alt="Coding Animation"/>
-
-<p align="left">
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
 ⚡ **Passionate Frontend Developer** with a keen eye for design and user experience
 
@@ -38,9 +38,12 @@
 
 🔭 Always exploring **new technologies** and **design trends**
 
-</p>
-
-<br/>
+  </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://mustakahmedkafy.github.io/img/programmer.gif" width="360" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
 ### 🎯 Quick Facts
 
@@ -53,8 +56,6 @@ const mustak = {
     lifePhilosophy: "Code, Coffee, Create, Repeat ☕"
 };
 ```
-
-<br clear="both"/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
