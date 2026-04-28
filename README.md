@@ -257,10 +257,5 @@ const mustak = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:ff6b6b,100:667eea&height=150&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=flat-square" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/From-Bangladesh%20🇧🇩-006a4e?style=flat-square" alt="From Bangladesh"/>
-</p>
-
-<p align="center">
-  <i>⭐ Star my repos if you find them interesting!</i>
+  <sub>Mustak Ahmed Kafy &nbsp;·&nbsp; Frontend Engineer &nbsp;·&nbsp; Dhaka, Bangladesh</sub>
 </p>
