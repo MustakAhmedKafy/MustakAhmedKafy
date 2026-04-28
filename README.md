@@ -192,19 +192,13 @@ const mustak = {
 
 <!-- Profile Summary Card -->
 <p align="center">
-  <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustakahmedkafy&theme=tokyonight" width="98%" alt="Profile Details"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustakahmedkafy&theme=tokyonight" width="98%" alt="Profile Details"/>
 </p>
 
 <!-- Productive Time + Stats -->
 <p align="center">
-  <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakahmedkafy&theme=tokyonight" width="48%" alt="Stats"/>
-  </a>
-  <a href="https://github.com/mustakahmedkafy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="48%" alt="Productive Time"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakahmedkafy&theme=tokyonight" width="48%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="48%" alt="Productive Time"/>
 </p>
 
 <!-- GitHub Trophies -->
