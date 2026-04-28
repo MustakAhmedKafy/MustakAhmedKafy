@@ -26,24 +26,19 @@
   <span> About Me</span>
 </h2>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="340" alt="Coding Animation"/>
 
-⚡ **Passionate Frontend Developer** with a keen eye for design and user experience
+⚡ **Passionate Frontend Developer** with a keen eye for design<br/>
+&nbsp;&nbsp;&nbsp;and user experience
 
-✨ I transform **complex problems** into **elegant, intuitive interfaces**
+✨ I transform **complex problems** into<br/>
+&nbsp;&nbsp;&nbsp;**elegant, intuitive interfaces**
 
 📍 Based in **Bangladesh**, building for the **global web**
 
 🔭 Always exploring **new technologies** and **design trends**
 
-  </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://mustakahmedkafy.github.io/img/programmer.gif" width="360" alt="Coding Animation"/>
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 ### 🎯 Quick Facts
 
