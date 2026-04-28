@@ -190,10 +190,27 @@ const mustak = {
   </a>
 </p>
 
+<!-- Profile Summary Card -->
+<p align="center">
+  <a href="https://github.com/mustakahmedkafy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustakahmedkafy&theme=tokyonight" width="98%" alt="Profile Details"/>
+  </a>
+</p>
+
+<!-- Productive Time + Stats -->
+<p align="center">
+  <a href="https://github.com/mustakahmedkafy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakahmedkafy&theme=tokyonight" width="48%" alt="Stats"/>
+  </a>
+  <a href="https://github.com/mustakahmedkafy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="48%" alt="Productive Time"/>
+  </a>
+</p>
+
 <!-- GitHub Trophies -->
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
