@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+whoami+%E2%86%92+frontend+engineer;%24+stack+%E2%86%92+react+%C2%B7+next.js+%C2%B7+typescript;%24+location+%E2%86%92+dhaka%2C+bangladesh;%24+status+%E2%86%92+open+to+opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Crafting+Beautiful+User+Experiences;Building+Scalable+Frontend+Solutions;Turning+Ideas+Into+Pixel-Perfect+Reality" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
