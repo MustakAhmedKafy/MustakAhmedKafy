@@ -26,7 +26,7 @@
   <span> About Me</span>
 </h2>
 
-<img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="380" alt="Coding Animation"/>
+<img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="360" hspace="30" vspace="10" alt="Coding Animation"/>
 
 <p align="left">
 
