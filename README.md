@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,30:764ba2,60:f093fb,100:ff6b6b&height=300&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh%20🇧🇩&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=260&section=header&text=Mustak%20Ahmed%20Kafy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Bangladesh&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Crafting+Beautiful+User+Experiences;Building+Scalable+Frontend+Solutions;Turning+Ideas+Into+Pixel-Perfect+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Frontend+Developer;React+•+Next.js+•+Vue;Based+in+Bangladesh%2C+building+for+the+web" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
