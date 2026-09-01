@@ -103,12 +103,6 @@ const mustak = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="32.5%" alt="Productive Time"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/mustakahmedkafy">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
-</a>
-</p>
-
 <!-- Divider -->
 <p align="center">
 <img src="./divider.svg" width="100%" alt=""/>
