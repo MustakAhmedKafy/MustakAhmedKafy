@@ -1,0 +1,23 @@
+<svg width="900" height="70" viewBox="0 0 900 70" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quick Facts">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#667eea"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-150 0; 150 0; -150 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+      .t { fill: #f0f6fc; }
+      @media (prefers-color-scheme: light) { .t { fill: #24292f; } }
+    </style>
+  </defs>
+
+  <line x1="120" y1="35" x2="268" y2="35" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="632" y1="35" x2="780" y2="35" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M283 29 l5 6 -5 6 -5 -6 z" fill="url(#accent)"/>
+  <path d="M617 29 l5 6 -5 6 -5 -6 z" fill="url(#accent)"/>
+
+  <text class="t" x="450" y="43" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="7">QUICK FACTS</text>
+</svg>

@@ -21,34 +21,34 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Section -->
-<h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<span> About Me</span>
-</h2>
+<br/>
+<p align="center">
+<img src="./section-about.svg" width="640" alt="About Me"/>
+</p>
 
 <img align="right" src="https://mustakahmedkafy.github.io/img/programmer.gif" width="340" alt="Coding Animation"/>
 
-⚡ **Passionate Frontend Developer** with a keen eye for design<br/>
-&nbsp;&nbsp;&nbsp;and user experience
+**Frontend developer** with a keen eye for design and user experience — I care about how an interface *feels*, not just how it works.
 
-✨ I transform **complex problems** into<br/>
-&nbsp;&nbsp;&nbsp;**elegant, intuitive interfaces**
+I enjoy turning **complex problems** into clean, intuitive interfaces, and I sweat the small details — spacing, motion, accessibility.
 
-📍 Based in **Bangladesh**, building for the **global web**
-
-🔭 Always exploring **new technologies** and **design trends**
+Based in **Bangladesh**, building for the **global web**, always exploring new technologies and design trends.
 
 <br clear="both"/>
 
-### 🎯 Quick Facts
+<!-- Quick Facts -->
+<br/>
+<p align="center">
+<img src="./section-facts.svg" width="640" alt="Quick Facts"/>
+</p>
 
 ```javascript
 const mustak = {
-pronouns: "He" | "Him",
-location: "Bangladesh 🇧🇩",
-currentFocus: "Building scalable web applications",
-funFact: "I debug with console.log and I'm not ashamed 😄",
-lifePhilosophy: "Code, Coffee, Create, Repeat ☕"
+  pronouns: "he/him",
+  location: "Bangladesh",
+  focus:    "building scalable web applications",
+  funFact:  "debugs with console.log — no shame",
+  motto:    "code · coffee · create · repeat",
 };
 ```
 
