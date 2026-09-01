@@ -65,19 +65,8 @@ const mustak = {
 <img src="./section-tech.svg" width="640" alt="Tech Stack"/>
 </p>
 
-<p align="center"><sub><b>LANGUAGES &amp; STYLING</b></sub></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js&theme=dark" height="48" alt="HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript"/>
-</p>
-
-<p align="center"><sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub></p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,nuxtjs,jquery&theme=dark" height="48" alt="React, Next.js, Redux, Vue, Nuxt, jQuery"/>
-</p>
-
-<p align="center"><sub><b>BACKEND &amp; TOOLS</b></sub></p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,figma,git,github,ps,vscode&theme=dark" height="48" alt="PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code"/>
+<img src="./tech-stack.svg" width="100%" alt="HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Redux, Vue.js, Nuxt.js, jQuery, PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code"/>
 </p>
 
 <br/>

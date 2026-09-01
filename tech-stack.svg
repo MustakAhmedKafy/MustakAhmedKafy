@@ -1,0 +1,36 @@
+<svg width="1000" height="316" viewBox="0 0 1000 316" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech stack: HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Redux, Vue.js, Nuxt.js, jQuery, PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code">
+  <defs>
+    <style>
+      text { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+      .lbl { fill: #6e7681; }
+      .pill { fill: #c9d1d9; }
+      @media (prefers-color-scheme: light) {
+        .lbl { fill: #6e7781; }
+        .pill { fill: #ffffff; }
+      }
+    </style>
+  </defs>
+<text class="lbl" x="500" y="34" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4">LANGUAGES &amp; STYLING</text>
+<g><rect x="122" y="60" width="88" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="142" cy="77" r="3" fill="#667eea"/><text class="pill" x="154" y="82" font-size="14" font-weight="500">HTML5</text></g>
+<g><rect x="222" y="60" width="80" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="242" cy="77" r="3" fill="#667eea"/><text class="pill" x="254" y="82" font-size="14" font-weight="500">CSS3</text></g>
+<g><rect x="314" y="60" width="136" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="334" cy="77" r="3" fill="#667eea"/><text class="pill" x="346" y="82" font-size="14" font-weight="500">SCSS / SASS</text></g>
+<g><rect x="462" y="60" width="120" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="482" cy="77" r="3" fill="#667eea"/><text class="pill" x="494" y="82" font-size="14" font-weight="500">Bootstrap</text></g>
+<g><rect x="594" y="60" width="144" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="614" cy="77" r="3" fill="#667eea"/><text class="pill" x="626" y="82" font-size="14" font-weight="500">Tailwind CSS</text></g>
+<g><rect x="750" y="60" width="128" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="770" cy="77" r="3" fill="#667eea"/><text class="pill" x="782" y="82" font-size="14" font-weight="500">JavaScript</text></g>
+<text class="lbl" x="500" y="128" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4">FRAMEWORKS &amp; LIBRARIES</text>
+<g><rect x="182" y="154" width="88" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="202" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="214" y="176" font-size="14" font-weight="500">React</text></g>
+<g><rect x="282" y="154" width="104" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="302" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="314" y="176" font-size="14" font-weight="500">Next.js</text></g>
+<g><rect x="398" y="154" width="88" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="418" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="430" y="176" font-size="14" font-weight="500">Redux</text></g>
+<g><rect x="498" y="154" width="96" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="518" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="530" y="176" font-size="14" font-weight="500">Vue.js</text></g>
+<g><rect x="606" y="154" width="104" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="626" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="638" y="176" font-size="14" font-weight="500">Nuxt.js</text></g>
+<g><rect x="722" y="154" width="96" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="742" cy="171" r="3" fill="#a78bfa"/><text class="pill" x="754" y="176" font-size="14" font-weight="500">jQuery</text></g>
+<text class="lbl" x="500" y="222" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4">BACKEND &amp; TOOLS</text>
+<g><rect x="78" y="248" width="72" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="98" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="110" y="270" font-size="14" font-weight="500">PHP</text></g>
+<g><rect x="162" y="248" width="88" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="182" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="194" y="270" font-size="14" font-weight="500">MySQL</text></g>
+<g><rect x="262" y="248" width="120" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="282" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="294" y="270" font-size="14" font-weight="500">WordPress</text></g>
+<g><rect x="394" y="248" width="88" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="414" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="426" y="270" font-size="14" font-weight="500">Figma</text></g>
+<g><rect x="494" y="248" width="72" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="514" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="526" y="270" font-size="14" font-weight="500">Git</text></g>
+<g><rect x="578" y="248" width="96" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="598" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="610" y="270" font-size="14" font-weight="500">GitHub</text></g>
+<g><rect x="686" y="248" width="120" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="706" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="718" y="270" font-size="14" font-weight="500">Photoshop</text></g>
+<g><rect x="818" y="248" width="104" height="34" rx="17" fill="#12151c" stroke="#262c36" stroke-width="1"/><circle cx="838" cy="265" r="3" fill="#f0abfc"/><text class="pill" x="850" y="270" font-size="14" font-weight="500">VS Code</text></g>
+</svg>
