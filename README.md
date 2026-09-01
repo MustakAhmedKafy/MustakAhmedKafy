@@ -18,7 +18,9 @@
 </div>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+<img src="./divider.svg" width="100%" alt=""/>
+</p>
 
 <!-- About Section -->
 <br/>
@@ -53,173 +55,80 @@ const mustak = {
 ```
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+<img src="./divider.svg" width="100%" alt=""/>
+</p>
 
 <!-- Tech Stack Section -->
-<h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-<span> Tech Stack</span>
-</h2>
+<br/>
+<p align="center">
+<img src="./section-tech.svg" width="640" alt="Tech Stack"/>
+</p>
 
-<table align="center">
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-<br/><strong>HTML5</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
-<br/><strong>CSS3</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SCSS"/>
-<br/><strong>SCSS/SASS</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
-<br/><strong>Bootstrap</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
-<br/><strong>Tailwind</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-<br/><strong>JavaScript</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-<br/><strong>React.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
-<br/><strong>Next.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
-<br/><strong>Redux</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js"/>
-<br/><strong>Vue.js</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js"/>
-<br/><strong>Nuxt.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery"/>
-<br/><strong>jQuery</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
-<br/><strong>PHP</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-<br/><strong>MySQL</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/>
-<br/><strong>WordPress</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
-<br/><strong>Figma</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-<br/><strong>Git</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-<br/><strong>GitHub</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop"/>
-<br/><strong>Photoshop</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-<br/><strong>VS Code</strong>
-</td>
-</tr>
-</table>
+<p align="center"><sub><b>LANGUAGES &amp; STYLING</b></sub></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js&theme=dark" height="48" alt="HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript"/>
+</p>
+
+<p align="center"><sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,nuxtjs,jquery&theme=dark" height="48" alt="React, Next.js, Redux, Vue, Nuxt, jQuery"/>
+</p>
+
+<p align="center"><sub><b>BACKEND &amp; TOOLS</b></sub></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,figma,git,github,ps,vscode&theme=dark" height="48" alt="PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code"/>
+</p>
 
 <br/>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+<img src="./divider.svg" width="100%" alt=""/>
+</p>
 
 <!-- GitHub Stats Section -->
-<h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-<span> GitHub Analytics</span>
-</h2>
+<br/>
+<p align="center">
+<img src="./section-analytics.svg" width="640" alt="GitHub Analytics"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustakahmedkafy&theme=tokyonight" width="98%" alt="Profile Details"/>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustakahmedkafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true)](https://github.com/mustakahmedkafy)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustakahmedkafy&theme=tokyonight)](https://github.com/mustakahmedkafy)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustakahmedkafy&theme=tokyonight" width="32.5%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakahmedkafy&theme=tokyonight" width="32.5%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="32.5%" alt="Productive Time"/>
+</p>
 
-</div>
-
-<!-- GitHub Streak -->
 <p align="center">
 <a href="https://github.com/mustakahmedkafy">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustakahmedkafy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
 </a>
 </p>
 
-<!-- Yearly Activity Graph -->
-<p align="center">
-<a href="https://github.com/mustakahmedkafy">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakahmedkafy&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
-</a>
-</p>
-
-<!-- Profile Summary Card -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustakahmedkafy&theme=tokyonight" width="98%" alt="Profile Details"/>
-</p>
-
-<!-- Productive Time + Stats -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakahmedkafy&theme=tokyonight" width="48%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakahmedkafy&theme=tokyonight&utcOffset=6" width="48%" alt="Productive Time"/>
-</p>
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustakahmedkafy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+<img src="./divider.svg" width="100%" alt=""/>
+</p>
 
 <!-- Connect Section -->
-<h2>
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
-<span> Let's Connect</span>
-</h2>
+<br/>
+<p align="center">
+<img src="./section-connect.svg" width="640" alt="Let's Connect"/>
+</p>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustakkafy.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmusta99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustakahmedkafy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mustak_kafy)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mustakahmedkafy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_a_f_y)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/thekafyshow)
+[![Portfolio](https://img.shields.io/badge/Portfolio-15161e?style=for-the-badge&logo=googlechrome&logoColor=a78bfa)](https://www.mustakkafy.com/)
+[![Email](https://img.shields.io/badge/Email-15161e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:ahmedmusta99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15161e?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/mustakahmedkafy)
+[![Twitter](https://img.shields.io/badge/Twitter-15161e?style=for-the-badge&logo=x&logoColor=a78bfa)](https://twitter.com/mustak_kafy)
+[![Facebook](https://img.shields.io/badge/Facebook-15161e?style=for-the-badge&logo=facebook&logoColor=a78bfa)](https://fb.com/mustakahmedkafy)
+[![Instagram](https://img.shields.io/badge/Instagram-15161e?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://instagram.com/k_a_f_y)
+[![YouTube](https://img.shields.io/badge/YouTube-15161e?style=for-the-badge&logo=youtube&logoColor=a78bfa)](https://www.youtube.com/c/thekafyshow)
 
 </div>
 
@@ -231,7 +140,7 @@ const mustak = {
 </p>
 
 <!-- Support Section -->
-<h3 align="center">💜 Support My Work</h3>
+<p align="center"><sub><b>SUPPORT MY WORK</b></sub></p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/mustakkafy" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50">
@@ -248,8 +157,6 @@ const mustak = {
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:ff6b6b,100:667eea&height=150&section=footer&animation=twinkling" width="100%"/>
-
 <p align="center">
-<sub>Mustak Ahmed Kafy &nbsp;·&nbsp; Frontend Engineer &nbsp;·&nbsp; Dhaka, Bangladesh</sub>
+<img src="./footer.svg" width="100%" alt="Mustak Ahmed Kafy — Frontend Developer"/>
 </p>

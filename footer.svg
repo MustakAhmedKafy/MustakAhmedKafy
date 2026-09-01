@@ -1,0 +1,32 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mustak Ahmed Kafy — Frontend Developer">
+  <defs>
+    <radialGradient id="pool2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.26"/>
+      <stop offset="55%" stop-color="#8b7cf6" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#8b7cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#667eea"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-200 0; 200 0; -200 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+      .n { fill: #f0f6fc; }
+      .s { fill: #9198a1; }
+      @media (prefers-color-scheme: light) { .n { fill: #24292f; } .s { fill: #57606a; } }
+    </style>
+  </defs>
+
+  <ellipse cx="600" cy="215" rx="520" ry="160" fill="url(#pool2)">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <line x1="440" y1="70" x2="760" y2="70" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M600 63 l6 7 -6 7 -6 -7 z" fill="url(#accent)"/>
+
+  <text class="n" x="600" y="118" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="6">MUSTAK AHMED KAFY</text>
+  <text class="s" x="600" y="150" text-anchor="middle" font-size="13" font-weight="500" letter-spacing="3">FRONTEND DEVELOPER&#160;&#160;·&#160;&#160;MUSTAKKAFY.COM</text>
+</svg>
