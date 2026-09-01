@@ -66,7 +66,9 @@ const mustak = {
 </p>
 
 <p align="center">
-<img src="./tech-stack.svg" width="100%" alt="HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Redux, Vue.js, Nuxt.js, jQuery, PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,redux,vue&theme=dark" alt="HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Redux, Vue.js"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nuxtjs,jquery,php,mysql,wordpress,figma,git,github,ps,vscode&theme=dark" alt="Nuxt.js, jQuery, PHP, MySQL, WordPress, Figma, Git, GitHub, Photoshop, VS Code"/>
 </p>
 
 <br/>
